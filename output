@@ -1,0 +1,17 @@
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	XFERTOPAYROLL	BILLINGSTATUS
+TIMEACT 06/30/2020	STX:18_009 Switchgear Replacement	Christopher D Lee	03.01.602	COVID-Employee	3	?proj?	lizard	N	1
+TIMEACT 06/30/2020	CSSG:17_009 TLT Renovation	Christopher D Lee	02.01.602	Direct Labor-Emp OT NonExempt	4	?proj?	nice	N	1
+TIMEACT 06/30/2020	MPO:16_010 Watch Floor	Christopher D Lee	01.02.200	Direct Labor-Emp OT NonExempt	1	?proj?	0	N	1
+TIMEACT 07/01/2020	CSSG:17_009 TLT Renovation	Christopher D Lee	02.01.602	Direct Labor-Emp OT NonExempt	1	?proj?	nice	N	1
+TIMEACT 07/02/2020	STX:18_009 Switchgear Replacement	Christopher D Lee	03.01.602	COVID-Employee	1	?proj?	lizard	N	1
+TIMEACT 07/02/2020	CSSG:17_009 TLT Renovation	Christopher D Lee	02.01.602	Direct Labor-Emp OT NonExempt	1	?proj?	nice	N	1
+TIMEACT 07/03/2020	CSSG:17_009 TLT Renovation	Christopher D Lee	02.01.602	Direct Labor-Emp OT NonExempt	1	?proj?	nice	N	1
+TIMEACT 07/03/2020	MPO:16_010 Watch Floor	Christopher D Lee	01.02.200	Direct Labor-Emp OT NonExempt	1	?proj?	0	N	1
+TIMEACT 07/04/2020	STX:18_009 Switchgear Replacement	Christopher D Lee	03.01.602	COVID-Employee	1	?proj?	lizard	N	1
+TIMEACT 07/04/2020	MPO:16_010 Watch Floor	Christopher D Lee	01.02.200	Direct Labor-Emp OT NonExempt	1	?proj?	0	N	1
+TIMEACT 07/07/2020	STX:18_009 Switchgear Replacement	Christopher D Lee	02.02.100	Direct Labor-Emp OT NonExempt	1	?proj?	cat	N	1
+TIMEACT 07/08/2020	CSSG:17_009 TLT Renovation	Christopher D Lee	03.01.602	COVID-Employee	3	?proj?	dog	N	1
+TIMEACT 07/08/2020	MPO:16_010 Watch Floor	Christopher D Lee	01.02.200	Direct Labor-Emp OT NonExempt	1	?proj?	0	N	1
+TIMEACT 07/09/2020	STX:18_009 Switchgear Replacement	Christopher D Lee	02.02.100	Direct Labor-Emp OT NonExempt	3	?proj?	cat	N	1
+TIMEACT 07/10/2020	MPO:16_010 Watch Floor	Christopher D Lee	01.02.200	Direct Labor-Emp OT NonExempt	1	?proj?	0	N	1
+TIMEACT 07/11/2020	CSSG:17_009 TLT Renovation	Christopher D Lee	03.01.602	COVID-Employee	1	?proj?	dog	N	1
